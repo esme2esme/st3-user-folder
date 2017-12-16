@@ -1,0 +1,22 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"A File Icon",
+		"All Autocomplete",
+		"Atomic Color Scheme",
+		"BracketHighlighter",
+		"Color Scheme - Creamy",
+		"DocBlockr",
+		"Grun Colour Scheme",
+		"JavaScript Completions",
+		"LiveReload",
+		"Material Theme",
+		"Material Theme - Appbar",
+		"Package Control",
+		"sublime-github"
+	]
+}
