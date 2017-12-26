@@ -5,7 +5,7 @@
 	"caret_extra_top": 2,
 	"caret_extra_width": 3,
 	"caret_style": "solid",
-	"color_scheme": "Packages/Theme - Cobalt2/cobalt2.tmTheme",
+	"color_scheme": "Packages/User/cobalt2.tmTheme",
 	"ensure_newline_at_eof_on_save": true,
 	"font_face": "Monaco Regular",
 	"font_size": 12,
@@ -13,7 +13,6 @@
 	"highlight_modified_tabs": true,
 	"ignored_packages":
 	[
-		"JavaScript Completions",
 		"Vintage"
 	],
 	"indent_guide_options":
@@ -25,6 +24,7 @@
 	"line_padding_top": 1,
 	"overlay_scroll_bars": "enabled",
 	"save_on_focus_lost": true,
+	"show_legacy_color_schemes": true,
 	"sidebar_large": true,
 	"sidebar_medium": true,
 	"sidebar_xlarge": true,
