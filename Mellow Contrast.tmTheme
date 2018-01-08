@@ -14,11 +14,19 @@
 			<key>settings</key>
 			<dict>
 				<key>background</key>
+<<<<<<< HEAD
 				<string>#272433</string>
 				<key>caret</key>
 				<string>#f8f8f0</string>
 				<key>foreground</key>
 				<string>#D1E6D9</string>
+=======
+				<string>#0b0a09</string>
+				<key>caret</key>
+				<string>#f8f8f0</string>
+				<key>foreground</key>
+				<string>#F8F8F2</string>
+>>>>>>> ebca0eb46a348289a025392cf49f01dbe33d7b18
 				<key>invisibles</key>
 				<string>#3b3a32</string>
 				<key>lineHighlight</key>
@@ -662,4 +670,8 @@
 	<key>semanticClass</key>
 	<string>theme.dark.mellow_contrast</string>
 </dict>
+<<<<<<< HEAD
 </plist>
+=======
+</plist>
+>>>>>>> ebca0eb46a348289a025392cf49f01dbe33d7b18

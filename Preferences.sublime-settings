@@ -5,10 +5,17 @@
 	"caret_extra_top": 2,
 	"caret_extra_width": 3,
 	"caret_style": "solid",
+<<<<<<< HEAD
 	"color_scheme": "Packages/User/Monokai Gray.tmTheme",
 	"ensure_newline_at_eof_on_save": true,
 	"font_face": "Monaco Regular",
 	"font_size": 10,
+=======
+	"color_scheme": "Packages/User/Mellow Contrast.tmTheme",
+	"ensure_newline_at_eof_on_save": true,
+	"font_face": "Monaco Regular",
+	"font_size": 11,
+>>>>>>> ebca0eb46a348289a025392cf49f01dbe33d7b18
 	"highlight_line": true,
 	"highlight_modified_tabs": true,
 	"ignored_packages":
@@ -26,7 +33,11 @@
 	"save_on_focus_lost": true,
 	"show_legacy_color_schemes": true,
 	"tab_size": 2,
+<<<<<<< HEAD
 	"theme": "Cobalt2.sublime-theme",
+=======
+	"theme": "Adaptive.sublime-theme",
+>>>>>>> ebca0eb46a348289a025392cf49f01dbe33d7b18
 	"trim_trailing_white_space_on_save": true,
 	"wide_caret": true
 }
