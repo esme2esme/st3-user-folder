@@ -1,4 +1,23 @@
 {
 	"color_scheme": "Packages/User/Monokai Gray.tmTheme",
-	"theme": "Cobalt2.sublime-theme"
+	"ignored_packages":
+	[
+		"All Autocomplete",
+		"Vintage"
+	],
+	"theme": "Cobalt2.sublime-theme",
+	"font_face": "Monaco Regular",
+	"ensure_newline_at_eof_on_save": true,
+	"highlight_line": true,
+	"highlight_modified_tabs": true,
+	"indent_guide_options":
+	[
+		"draw_normal",
+		"draw_active"
+	],
+	"save_on_focus_lost": true,
+	"tab_size": 2,
+	"trim_trailing_white_space_on_save": true,
+	"wide_caret": true,
+	"caret_style": "solid"
 }
