@@ -1,15 +1,15 @@
 {
+	"caret_style": "solid",
 	"color_scheme": "Packages/User/Monokai Gray.tmTheme",
-	"ignored_packages":
-	[
-		"All Autocomplete",
-		"Vintage"
-	],
-	"theme": "Cobalt2.sublime-theme",
-	"font_face": "Monaco Regular",
 	"ensure_newline_at_eof_on_save": true,
+	"font_face": "Ubuntu Mono Regular",
+	"font_size": 12,
 	"highlight_line": true,
 	"highlight_modified_tabs": true,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
 	"indent_guide_options":
 	[
 		"draw_normal",
@@ -17,7 +17,7 @@
 	],
 	"save_on_focus_lost": true,
 	"tab_size": 2,
+	"theme": "Cobalt2.sublime-theme",
 	"trim_trailing_white_space_on_save": true,
-	"wide_caret": true,
-	"caret_style": "solid"
+	"wide_caret": true
 }

@@ -6,13 +6,12 @@
 	"installed_packages":
 	[
 		"A File Icon",
-		"All Autocomplete",
 		"BracketHighlighter",
 		"JavaScript Completions",
 		"LiveReload",
 		"Package Control",
+		"SideBarEnhancements",
 		"sublime-github",
-		"Theme - Cobalt2",
-		"Theme - SoDaReloaded"
+		"Theme - Cobalt2"
 	]
 }
